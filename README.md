@@ -1,0 +1,1 @@
+# scala_parallel_scalashop
